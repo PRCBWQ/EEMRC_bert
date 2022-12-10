@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="BWQGPU">
+    <serverData>
+      <paths name="BWQGPU">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/EEMRC_bert" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/model/chinese-roberta-wwm-ext" />
+            <excludedPath local="true" path="$PROJECT_DIR$/model/RoBERTa_zh_L12_PyTorch" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
