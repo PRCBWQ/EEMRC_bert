@@ -21,8 +21,6 @@ tqdm	4.61.0
 transformers	4.5.1	
 ```
 项目目录  
-在10.99.4.36机器上的`/home/BWQ/EEMRC_bert/`下  
-环境为EEQA 在dell账号下执行`conda info -e`即可搜索到
 目录介绍
 ```
     data
